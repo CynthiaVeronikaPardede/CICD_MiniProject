@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testing,,,,2022-11-05 17:05:20,2022-11-05 17:05:21,0.941s,FAILED
+,,,,,,,
+Test Cases/Run Feature File,,,,2022-11-05 17:05:20,2022-11-05 17:05:21,0.717s,FAILED
+"runFeatureFile(""Include/features/Login.feature"")",,,,2022-11-05 17:05:20,2022-11-05 17:05:21,0.432s,FAILED

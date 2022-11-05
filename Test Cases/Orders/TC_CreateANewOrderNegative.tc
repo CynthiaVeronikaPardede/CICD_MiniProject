@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CreateANewOrderNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>340095e6-5b54-462f-8505-6e72aef0d390</testCaseGuid>
+</TestCaseEntity>

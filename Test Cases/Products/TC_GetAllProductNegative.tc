@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetAllProductNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9955082c-01cc-490f-b3b3-4c0ce87468fa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetUserInfoNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec44bf4e-5c8b-4c3a-a2b0-adf229827ef7</testCaseGuid>
+</TestCaseEntity>
